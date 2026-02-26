@@ -1,7 +1,7 @@
 cat > README.md <<'EOF'
-# RL HW4 — Gridworld: TD(0) Policy Evaluation, SARSA, and Q-Learning (Python)
+# RL Gridworld: TD(0) Policy Evaluation, SARSA, and Q-Learning (Python)
 
-This repository contains my Homework 4 implementation for Reinforcement Learning on a **5×5 Gridworld** with obstacles, a negative-reward water cell, and a terminal goal state. I implemented:
+This repository contains implementation for Reinforcement Learning on a **5×5 Gridworld** with obstacles, a negative-reward water cell, and a terminal goal state. I implemented:
 
 - **TD(0) policy evaluation** for a fixed policy (estimate state-value function)
 - **On-policy control (SARSA)**
